@@ -1,1 +1,1 @@
-# Alg2_shaldaneg
+# Lab1_Alg2_shaldaneg
