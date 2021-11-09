@@ -1,2 +1,5 @@
-# Alg2_shaldaneg
-Se ha creado una rama por cada laboratorio trabajado
+Laboratorio 2 - Grupo 3 Algoritmos
+Sergio Nicolás Haldane
+Adrian Arturo Canacuan
+Diego Alejandro Rodriguez
+Kilian Fernando Hernandez
