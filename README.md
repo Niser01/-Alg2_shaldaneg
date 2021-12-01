@@ -1,2 +1,1 @@
-# Alg2_shaldaneg
-Se ha creado una rama por cada laboratorio trabajado
+En este Taller se buscó obtener las raices de una funcion dada, para hacer esto se utilizó el método de la bisección, dentro del programa se encuentran dos funciones y el main, en la primera funcion se define la funcion matematica a la cual se le va a obtener su raiz, en la segunda función se aplica el método de la Bisección por medio de recursividad, para ir iterando de acuerdo con el intervalo que mejor se ajuste a la raiz que se va a obtener.
