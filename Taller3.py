@@ -1,3 +1,5 @@
+import time as time
+
 def funcion(x):
     #aqui se definio la funcion a la cual se le desa saber la raiz aproximada
     return (((-x) ** 4) + (30 * (x ** 3)) + (15 * (x ** 2)) + (34 * x) + 540)
@@ -34,5 +36,10 @@ if __name__ == '__main__':
             break
         else:
             print("Los intervalos no son validos, ingrese los valores nuevamente")
-    #Se llama a la funcion biseccion para hacer el procedimeinto
+    #Se llama a la funcion biseccion para hacer el procedimeinto y se le toma el tiempo que se demora su ejecucion
+
+    start_time = time.time()
     biseccion(x0, x1)
+    final_time = time.time() - start_time
+    print("duración: {time}s".format(time=final_time))
+
